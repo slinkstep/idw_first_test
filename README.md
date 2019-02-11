@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 4. Correo Electrónico
 
 El correo electrónico o e-mail es un servicio de red que permite a los
@@ -25,3 +26,15 @@ Para poder enviar o recibir mensajes de un correo electrónico es necesario disp
 - El protocolo IMAP (Internet Message Access Protocol, o Protocolo de acceso a mensajes de internet) no descarga los mensajes a tu ordenador: tanto los mensajes como las carpetas que hayamos creado se mantienen en el servidor.
 
 ![img](https://i2.wp.com/techcloud.in/wp-content/uploads/2015/06/List-of-email-protocols.png)
+=======
+## Point of Sale:
+
+Es el lugar en donde se completa una transaccion entre el Usuario
+y el que ofrece el servicio, los que ofrecen el servicio normalmente
+usan un software y un hardware POS para procesar el pago y la transaccion.
+
+1. ``` PAYPAL HERE ```
+2. ``` SQUARE ```
+3. ``` LIGHTSPEED ```
+4. ``` LOYVERSE ```
+>>>>>>> c23c1ba50b27fb61b38ab8f18bb3a8a10a19c538
