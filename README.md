@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 4. Correo Electrónico
 
 El correo electrónico o e-mail es un servicio de red que permite a los
@@ -37,4 +37,3 @@ usan un software y un hardware POS para procesar el pago y la transaccion.
 2. ``` SQUARE ```
 3. ``` LIGHTSPEED ```
 4. ``` LOYVERSE ```
->>>>>>> c23c1ba50b27fb61b38ab8f18bb3a8a10a19c538
