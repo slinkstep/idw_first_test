@@ -3,8 +3,8 @@
 Es la plataforma fisica de red, que permite interconectar varios dispositivos. 
 
 ![alt 
-text](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiBt-nu2rPgAhWNq1kKHaB8CgcQjRx6BAgBEAU&url=http%3A%2F%2Fcomponentesdeinternet.blogspot.com%2F2015%2F03%2Fcomponentes-del-internet.html&psig=AOvVaw01VLkTpI7YLbzt35N7X380&ust=1549975506137701 
-"La Imagen")
+text](http://4.bp.blogspot.com/_lW0NoXuUtpY/So4Y5EOv5yI/AAAAAAAAAA8/qDPCPUiPjZQ/s400/ciencia-01-internet-10000.jpg"La 
+Imagen")
 
 
 ### Los componentes del Internet
